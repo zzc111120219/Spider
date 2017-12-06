@@ -9,3 +9,6 @@
 
 *  增加代理的使用  
 *  多线程、多进程爬取   
+
+### [CSDN模拟登陆](https://github.com/zzc111120219/Spider/blob/master/csdn/login.py)
+考虑到很多时候爬取需要登录，所以尝试了较为简单的模拟登陆。
