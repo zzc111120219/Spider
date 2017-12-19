@@ -15,3 +15,5 @@
 
 ### [链家上海在售二手房爬取](https://github.com/zzc111120219/Spider/blob/master/lianjia/lianjia.py)
 因为最近在看上海房市（2号线为主），所以试着爬取了下链家官网的二手房信息。
+
+![](http://ww1.sinaimg.cn/large/a210afcdgy1fmmdhg5tdjj20zl0ebwgm.jpg)
