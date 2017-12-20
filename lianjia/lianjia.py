@@ -24,8 +24,8 @@ def login():
     data = {
         'redirect': 'http://user.sh.lianjia.com/index',
         'verifyCode': '',
-        'username': '15611533920',
-        'password': '712129LY1992',
+        'username': '*******',
+        'password': '***********',
         'code': '',
         'lt': lt,
         'execution': execution,
